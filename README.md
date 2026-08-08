@@ -1,4 +1,4 @@
-# Anomaly detection IN Network Traffic using isolation forest.
+# Anomaly detection in Network Traffic using isolation forest.
 
 ## Tools & Libraries: 
 
